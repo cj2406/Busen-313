@@ -1,0 +1,16 @@
+    <Image
+        source={require("../../assets/images/image.png")}
+        style={styles.image}
+        resizeMode="contain"
+      />
+      <Text style={styles.name}>Campbell Joel Oluwatimilehin</Text>
+      <Text style={styles.text}>Matric number: 24/1409</Text>
+      <Text style={styles.text}>University: Babcock University</Text>
+      <Text style={styles.text}>Department: Software Engineering</Text>
+      <Text style={styles.heading}>My Productive Holiday</Text>
+      <Text style={styles.description}>
+        During my holiday, I strengthened my programming skills, explored new
+        ideas in software development, and prepared for the semester ahead. I am
+        also making time to rest toreturn refreshed this semester.
+      </Text>
+      https://claude.ai/chat/2f51271a-a88c-4329-bc87-462267391764
